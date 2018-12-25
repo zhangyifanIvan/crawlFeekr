@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="37b29410-161c-473a-9b3e-0f075edfd4f6" name="Default" comment="" />
+    <list default="true" id="37b29410-161c-473a-9b3e-0f075edfd4f6" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -92,6 +94,9 @@
       <find>self.homeList</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -111,6 +116,7 @@
     <option name="width" value="1920" />
     <option name="height" value="1057" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -122,23 +128,6 @@
             <path>
               <item name="feekr" type="b2602c69:ProjectViewProjectNode" />
               <item name="feekr" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="feekr" type="b2602c69:ProjectViewProjectNode" />
-              <item name="feekr" type="462c0819:PsiDirectoryNode" />
-              <item name="feekr" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="feekr" type="b2602c69:ProjectViewProjectNode" />
-              <item name="feekr" type="462c0819:PsiDirectoryNode" />
-              <item name="feekr" type="462c0819:PsiDirectoryNode" />
-              <item name="files" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="feekr" type="b2602c69:ProjectViewProjectNode" />
-              <item name="feekr" type="462c0819:PsiDirectoryNode" />
-              <item name="feekr" type="462c0819:PsiDirectoryNode" />
-              <item name="spiders" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -232,7 +221,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.025" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32916668" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.31041667" />
